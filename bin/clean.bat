@@ -9,4 +9,4 @@ cd %~dp0
 cd ..
 call mvn clean
 
-pause
+pause 

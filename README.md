@@ -62,7 +62,7 @@ com.ruoyi
 2.  部门管理：配置系统组织机构（公司、部门、小组），树结构展现支持数据权限。
 3.  岗位管理：配置系统用户所属担任职务。
 4.  菜单管理：配置系统菜单，操作权限，按钮权限标识等。
-5.  角色管理：角色菜单权限分配、设置角色按机构进行数据范围权限划分。
+5.  角色管理：角色菜单权限分配、设置角色按机构进行数据范围权限划分。 
 6.  字典管理：对系统中经常使用的一些较为固定的数据进行维护。
 7.  参数管理：对系统动态配置常用参数。
 8.  通知公告：系统通知公告信息发布维护。
@@ -106,7 +106,7 @@ com.ruoyi
     <tr>
         <td><img src="https://oscimg.oschina.net/oscnet/5e8c387724954459291aafd5eb52b456f53.jpg"/></td>
         <td><img src="https://oscimg.oschina.net/oscnet/644e78da53c2e92a95dfda4f76e6d117c4b.jpg"/></td>
-    </tr>
+    </tr>n
 	<tr>
         <td><img src="https://oscimg.oschina.net/oscnet/up-8370a0d02977eebf6dbf854c8450293c937.png"/></td>
         <td><img src="https://oscimg.oschina.net/oscnet/up-49003ed83f60f633e7153609a53a2b644f7.png"/></td>

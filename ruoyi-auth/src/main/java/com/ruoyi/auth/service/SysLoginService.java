@@ -26,7 +26,7 @@ import com.ruoyi.system.api.model.LoginUser;
 @Component
 public class SysLoginService
 {
-    @Autowired
+    @Autowired(required = false)
     private RemoteUserService remoteUserService;
 
     @Autowired
@@ -35,7 +35,7 @@ public class SysLoginService
     @Autowired
     private SysRecordLogService recordLogService;
 
-    @Autowired
+    @Autowired(required = false)
     private RedisService redisService;
 
     /**

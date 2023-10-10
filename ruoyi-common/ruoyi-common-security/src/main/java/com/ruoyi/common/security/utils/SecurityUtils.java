@@ -14,7 +14,7 @@ import com.ruoyi.system.api.model.LoginUser;
  * 
  * @author ruoyi
  */
-public class SecurityUtils
+public class  SecurityUtils
 {
     /**
      * 获取用户ID

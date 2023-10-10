@@ -25,7 +25,7 @@ import com.ruoyi.system.api.model.LoginUser;
 @RestController
 public class TokenController
 {
-    @Autowired
+    @Autowired(required = false)
     private TokenService tokenService;
 
     @Autowired
